@@ -10,6 +10,18 @@ data.skargy = [
 
 data.anamnezz = [
     "test ",
-    "test2 ",
+    "test 2 ",
     "test 3 "
+];
+
+data.anamnezzh = [
+    "test 4 ",
+    "test 5 ",
+    "test 6 "
+];
+
+data.alanaliz = [
+    "test 7",
+    "test 8",
+    "test 9"
 ];

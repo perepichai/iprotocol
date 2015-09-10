@@ -8,6 +8,11 @@
 	background-color: #fefefe;
 }
 
+.row-dovidnyk {
+	position: fixed;
+	right: 180;
+}
+
 .header-me {
 background-color: #00BCD4;
 }
@@ -29,7 +34,6 @@ color: #fff;
 	margin-bottom: 20px;
 }
 
-<style>
  #sortable1, #sortable2 {
 	 border: 1px solid #eee;
 	 width: 142px;
